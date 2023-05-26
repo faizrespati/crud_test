@@ -1,0 +1,30 @@
+CRITICAL - 2023-05-26 18:31:19 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:31:20 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:31:21 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:31:22 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:31:22 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:31:23 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:31:23 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:31:23 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:31:23 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 52.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-26 18:32:50 --> Cannot redeclare App\Controllers\KontrakController::edit()
+in APPPATH\Controllers\KontrakController.php on line 53.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
